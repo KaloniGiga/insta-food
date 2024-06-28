@@ -1,0 +1,8 @@
+node_modules
+build
+dist
+README.md
+
+public
+
+next-end.d.ts
